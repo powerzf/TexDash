@@ -1,0 +1,13 @@
+name = "TexDash"
+uuid = "a36e0e34-db6e-4782-8403-4ac4b276a557"
+authors = ["powerzf <18883350900@163.com> and contributors"]
+version = "0.1.0"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+julia = "1"
+
+[targets]
+test = ["Test"]
